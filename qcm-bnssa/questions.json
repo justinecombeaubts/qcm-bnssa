@@ -1,0 +1,4592 @@
+{
+    "questions": [
+        {
+            "idQ": 1,
+            "quest": "Choix du drapeau",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 101,
+                    "ans": "Pour un vent de force 4 à 5, il est recommandé de mettre le drapeau jaune.",
+                    "verif": 1
+                },
+                {
+                    "idA": 102,
+                    "ans": "En cas de brume intense ne permettant pas la surveillance, il faut mettre le drapeau vert.",
+                    "verif": 0
+                },
+                {
+                    "idA": 103,
+                    "ans": "Pour un vent de force inférieure à 3, il est recommandé de mettre le drapeau vert.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 2,
+            "quest": "Les analyses d’eau",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 201,
+                    "ans": "peuvent entraîner la fermeture d’une baignade si elles sont mauvaises.",
+                    "verif": 1
+                },
+                {
+                    "idA": 202,
+                    "ans": "sont effectuées sous contrôle de l’agence régionale de la santé.",
+                    "verif": 1
+                },
+                {
+                    "idA": 203,
+                    "ans": "sont uniquement réalisées en piscine.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 3,
+            "quest": "L’affichage météo au poste de secours comprend entre autre :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 301,
+                    "ans": "les observations météorologiques du jour.",
+                    "verif": 1
+                },
+                {
+                    "idA": 302,
+                    "ans": "la durée d’ensoleillement du jour.",
+                    "verif": 0
+                },
+                {
+                    "idA": 303,
+                    "ans": "les heures de marées et coefficients du jour.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 4,
+            "quest": "En mer",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 401,
+                    "ans": "avec un drapeau jaune hissé, j’interdis la baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 402,
+                    "ans": "avec un drapeau rouge hissé, j’interdis la baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 403,
+                    "ans": "avec une échelle de Beaufort qui indique force 6, je hisse le drapeau vert.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 5,
+            "quest": "Pour la force du vent, l’échelle de Beaufort va de :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 501,
+                    "ans": "0 à 9",
+                    "verif": 0
+                },
+                {
+                    "idA": 502,
+                    "ans": "0 à 12",
+                    "verif": 1
+                },
+                {
+                    "idA": 503,
+                    "ans": "0 à 15",
+                    "verif": 0
+                },
+                {
+                    "idA": 504,
+                    "ans": "0 à 30",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 6,
+            "quest": "Le drapeau jaune peut être hissé lorsque la différence de température entre l’air et l’eau est trop importante.",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 601,
+                    "ans": "Vrai",
+                    "verif": 1
+                },
+                {
+                    "idA": 602,
+                    "ans": "Faux, la température n’intervient pas dans le choix du drapeau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 603,
+                    "ans": "Faux, c’est le drapeau rouge qui doit être hissé.",
+                    "verif": 0
+                },
+                {
+                    "idA": 604,
+                    "ans": "Faux, c’est l’échelle de Beaufort qui détermine la couleur du drapeau.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 7,
+            "quest": "L’échelle de Beaufort est :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 701,
+                    "ans": "une grille de lecture qui indique la force du vent et l’état de la mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 702,
+                    "ans": "une échelle de valeur qui informe de la hauteur des marées.",
+                    "verif": 0
+                },
+                {
+                    "idA": 703,
+                    "ans": "un indicateur dans le choix du drapeau à hisser.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 8,
+            "quest": "Une piqûre de vive :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 801,
+                    "ans": "peut provoquer une violente douleur.",
+                    "verif": 1
+                },
+                {
+                    "idA": 802,
+                    "ans": "peut occasionner des nécroses de la peau.",
+                    "verif": 1
+                },
+                {
+                    "idA": 803,
+                    "ans": "est provoquée par un animal de la classe des physalies.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 9,
+            "quest": "Une baïne :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 901,
+                    "ans": "représente l’amplitude de la mer.",
+                    "verif": 0
+                },
+                {
+                    "idA": 902,
+                    "ans": "est une sorte de cuvette remplie d’eau.",
+                    "verif": 1
+                },
+                {
+                    "idA": 903,
+                    "ans": "peut être dangereuse pour la baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 904,
+                    "ans": "se trouve exclusivement en Méditerranée.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 10,
+            "quest": "Les analyses de qualité de l’eau en piscine :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1001,
+                    "ans": "sont confidentielles et ne doivent pas être vues du public.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1002,
+                    "ans": "doivent être affichées et visibles par le public.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1003,
+                    "ans": "sont réalisées au moins 4 fois par mois par l’agence régionale de santé.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 11,
+            "quest": "En atlantique, les dangers liés aux marées sont à prendre au sérieux :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1101,
+                    "ans": "surtout en présence de baïnes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1102,
+                    "ans": "en marée montante uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1103,
+                    "ans": "lors des marées de fort coefficient.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 12,
+            "quest": "Le balisage",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1201,
+                    "ans": "Il existe différents types de marques (latérales, dangers isolés, eaux saines, spéciales, cardinales...).",
+                    "verif": 1
+                },
+                {
+                    "idA": 1202,
+                    "ans": "Les marques latérales peuvent être rouges ou vertes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1203,
+                    "ans": "Le sens conventionnel est du port vers la haute mer.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1204,
+                    "ans": "Les marques Nord, Sud, Est et Ouest sont des marques de dangers isolés.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 13,
+            "quest": "En piscine, les analyses d’eau effectuées par le personnel :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1301,
+                    "ans": "peuvent entraîner la fermeture d’une baignade si elles sont mauvaises.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1302,
+                    "ans": "sont obligatoires 1 fois par mois.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1303,
+                    "ans": "doivent être effectuées au moins deux fois par jour.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 14,
+            "quest": "Une noyade :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1401,
+                    "ans": "peut être provoquée par un malaise dans l’eau.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1402,
+                    "ans": "peut être provoquée par un traumatisme violent.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1403,
+                    "ans": "peut être provoquée par une hypothermie.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1404,
+                    "ans": "est toujours le fait d’un mauvais nageur.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 15,
+            "quest": "L'A.R.S. :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1501,
+                    "ans": "est l'Agence Régionale de Sécurité.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1502,
+                    "ans": "est l'Agence Régionale de Santé.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1503,
+                    "ans": "a, dans le cadre de ses missions, uniquement le contrôle de la qualité de l’eau des piscines.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 16,
+            "quest": "L'échelle de Beaufort est :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1601,
+                    "ans": "Une grille de notation des sauveteurs en fin de saison.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1602,
+                    "ans": "Une grille qui indique la force du vent et les effets sur l’état de la mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1603,
+                    "ans": "Une échelle de valeur qui informe de la hauteur des marées.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1604,
+                    "ans": "internationale et permet à tous les marins de la comprendre.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 17,
+            "quest": "En mer les \"bâches\" :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1701,
+                    "ans": "se trouvent principalement sur les côtes de la Manche et de la Bretagne.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1702,
+                    "ans": "sont toujours en Méditerranée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1703,
+                    "ans": "ne sont absolument pas dangereuses.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 18,
+            "quest": "Vous avez un vent de terre sous petite brise, que faites-vous ?",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1801,
+                    "ans": "Je peux hisser un cône orange.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1802,
+                    "ans": "Je hisse uniquement le drapeau rouge.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1803,
+                    "ans": "Je peux hisser le drapeau vert ou jaune.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1804,
+                    "ans": "Je ferme la baignade.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 19,
+            "quest": "La météo marine annonce force 10 sur l'échelle de Beaufort :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 1901,
+                    "ans": "C'est une tempête.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1902,
+                    "ans": "C'est un coup de vent.",
+                    "verif": 0
+                },
+                {
+                    "idA": 1903,
+                    "ans": "Je devrais interdire la baignade en raison du danger.",
+                    "verif": 1
+                },
+                {
+                    "idA": 1904,
+                    "ans": "Je mets le drapeau jaune.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 20,
+            "quest": "Sur une plage où il n'y a pas de poste de secours :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2001,
+                    "ans": "la baignade est aux risques et périls des usagers.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2002,
+                    "ans": "la baignade est autorisée mais il n’y a pas de surveillance.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2003,
+                    "ans": "le maire est obligé de mettre en place une surveillance.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 21,
+            "quest": "Les baïnes :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2101,
+                    "ans": "doivent être situées dans la zone de baignade pour être sécurisée au maximum.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2102,
+                    "ans": "sont dangereuses pour la baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2103,
+                    "ans": "peuvent entraîner un nageur au large.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2104,
+                    "ans": "peuvent amener les sauveteurs à rétrécir la zone de baignade.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 22,
+            "quest": "Le balisage en navigation comprend :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2201,
+                    "ans": "des marques latérales.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2202,
+                    "ans": "des marques cardinales.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2203,
+                    "ans": "des marques transversales.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2204,
+                    "ans": "des marques d’eaux saines.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 23,
+            "quest": "Sur le territoire métropolitain, lorsque l’on vient du large, les chenaux traversiers :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2301,
+                    "ans": "sont matérialisés par des bouées, cylindriques à bâbord et coniques à tribord.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2302,
+                    "ans": "sont matérialisés par des bouées de couleur verte à bâbord et rouge à tribord.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2303,
+                    "ans": "peuvent être autorisés à la baignade.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 24,
+            "quest": "Il existe, dans la réglementation française, plusieurs catégories de baignades :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2401,
+                    "ans": "Les baignades interdites, aux risques et périls des usagers, autorisées et aménagées.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2402,
+                    "ans": "Les baignades aux risques et périls des usagers, autorisées et surveillées.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2403,
+                    "ans": "Les baignades aux risques et périls des usagers, surveillées et non-surveillées.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 25,
+            "quest": "Une zone de bain est balisée :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2501,
+                    "ans": "avec des bouées sphériques jaunes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2502,
+                    "ans": "avec des bouées cylindriques jaunes.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2503,
+                    "ans": "obligatoirement avec des bouées rouges.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 26,
+            "quest": "Les unités de mesure en mer :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2601,
+                    "ans": "L’unité de mesure de la distance est le mile (1609 m).",
+                    "verif": 1
+                },
+                {
+                    "idA": 2602,
+                    "ans": "L’unité de mesure de la vitesse est le nœud.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2603,
+                    "ans": "Un bateau naviguant à 5 nœuds circule à une vitesse approximative de 9km/h.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2604,
+                    "ans": "1 mille nautique est équivalent à 1852 m.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 27,
+            "quest": "Sur l’échelle de Beaufort :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2701,
+                    "ans": "le chiffre 10 correspond à une tempête.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2702,
+                    "ans": "le chiffre 0 correspond à une mer calme.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2703,
+                    "ans": "les chiffres correspondent à la hauteur des vagues mesurées en mètre.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2704,
+                    "ans": "l’échelle de Beaufort va de 0 à 20.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 28,
+            "quest": "Pour prendre la météo marine, vous pouvez :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2801,
+                    "ans": "faire le 112.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2802,
+                    "ans": "consulter l’application mobile ou le site internet de Météo France.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2803,
+                    "ans": "écouter le bulletin météo émis par les C.R.O.S.S. et les Sémaphores sur le canal VHF.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 29,
+            "quest": "Les analyses d’eau :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 2901,
+                    "ans": "sont obligatoirement affichées.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2902,
+                    "ans": "sont uniquement réalisées en piscine.",
+                    "verif": 0
+                },
+                {
+                    "idA": 2903,
+                    "ans": "sont effectuées sous le contrôle de l’agence régionale de santé.",
+                    "verif": 1
+                },
+                {
+                    "idA": 2904,
+                    "ans": "sont également réalisées en lac et en mer.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 30,
+            "quest": "Lorsque l’on vient du large, les chenaux traversiers :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3001,
+                    "ans": "sont matérialisés par des bouées cylindriques à bâbord.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3002,
+                    "ans": "sont matérialisés par des bouées cylindriques à tribord.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3003,
+                    "ans": "sont matérialisés par des bouées de couleur jaune.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 31,
+            "quest": "S’il n’y a pas d’interdiction, il est possible de se baigner en plan d’eau ou rivière.",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3101,
+                    "ans": "Oui.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3102,
+                    "ans": "Non, il faut obligatoirement un poste de secours à proximité.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3103,
+                    "ans": "Le maire doit d’abord faire une demande d’ouverture de baignade à la préfecture.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 32,
+            "quest": "Il est possible de se baigner dans les plans d’eau :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3201,
+                    "ans": "qui sont autorisés par le maire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3202,
+                    "ans": "où il n’y a pas de panneau baignade interdite.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3203,
+                    "ans": "seulement s’il y a un poste de secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3204,
+                    "ans": "seulement s’il y a un panneau baignade à vos risques et périls.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 33,
+            "quest": "Sur chaque lieu de baignade :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3301,
+                    "ans": "Il est obligatoire d’avoir un poste de secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3302,
+                    "ans": "La décision d’implantation d’un poste de secours est en premier ressort de la compétence du maire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3303,
+                    "ans": "En l’absence de surveillance, la baignade est aux risques et périls de l’usager.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 34,
+            "quest": "Les bouées coniques jaunes servent à baliser :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3401,
+                    "ans": "un chenal traversier.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3402,
+                    "ans": "la limite des 300 m.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3403,
+                    "ans": "la limite de la zone de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3404,
+                    "ans": "le côté gauche d’un chenal traversier lorsque je regarde de la plage.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 35,
+            "quest": "Le marnage :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3501,
+                    "ans": "représente la différence de hauteur d’eau entre une basse mer et une haute mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3502,
+                    "ans": "ne concerne que les zones qui ne sont pas soumises aux marées.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3503,
+                    "ans": "donne la hauteur des vagues.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 36,
+            "quest": "Dès que l’on détecte des méduses, la fermeture de la baignade est obligatoire.",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3601,
+                    "ans": "Oui.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3602,
+                    "ans": "Non, les méduses sont régulièrement présentes dans la mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3603,
+                    "ans": "Oui, si les autorités sanitaires l’exigent.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 37,
+            "quest": "En cas de vent de terre important :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3701,
+                    "ans": "Les enfants voient s’envoler leurs jouets vers le large.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3702,
+                    "ans": "Une vigilance particulière doit être observée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3703,
+                    "ans": "Il peut exister un drapeau spécifique en cas de danger lié au vent de terre.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3704,
+                    "ans": "le drapeau rouge doit obligatoirement être hissé.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 38,
+            "quest": "La baignade est surveillée dès lors qu’il y a :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3801,
+                    "ans": "un poste de secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3802,
+                    "ans": "un arrêté d’ouverture de la baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3803,
+                    "ans": "des sauveteurs sur la plage.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3804,
+                    "ans": "un drapeau vert sur le mât du poste de secours.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 39,
+            "quest": "Une interdiction de baignade est affichée uniquement en cas d’eau polluée ?",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 3901,
+                    "ans": "Vrai, c’est la seule raison.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3902,
+                    "ans": "Vrai, mais l’affichage peut être fait uniquement à la mairie.",
+                    "verif": 0
+                },
+                {
+                    "idA": 3903,
+                    "ans": "Faux, d’autres raisons sont possibles.",
+                    "verif": 1
+                },
+                {
+                    "idA": 3904,
+                    "ans": "Faux, c’est le maire qui peut l’avoir affichée pour être déchargé de la surveillance.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 40,
+            "quest": "Quelle est l’unité de mesure de la vitesse en milieu maritime ?",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 4001,
+                    "ans": "le nœud",
+                    "verif": 1
+                },
+                {
+                    "idA": 4002,
+                    "ans": "le kilomètre par heure",
+                    "verif": 0
+                },
+                {
+                    "idA": 4003,
+                    "ans": "le mile par heure",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 41,
+            "quest": "Une zone de baignade surveillée :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 4101,
+                    "ans": "peut être délimitée par des piquets avec un drapeau rouge et jaune.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4102,
+                    "ans": "n’a pas de limite qui détermine la zone de surveillance.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4103,
+                    "ans": "est toujours limitée à 300 m à droite et à gauche du poste de secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4104,
+                    "ans": "peut être amovible en fonction de l’état de la mer.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 42,
+            "quest": "Qui détermine la couleur du drapeau ?",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 4201,
+                    "ans": "L’échelle de Beaufort",
+                    "verif": 0
+                },
+                {
+                    "idA": 4202,
+                    "ans": "Le maire de la commune",
+                    "verif": 0
+                },
+                {
+                    "idA": 4203,
+                    "ans": "Le chef de poste",
+                    "verif": 1
+                },
+                {
+                    "idA": 4204,
+                    "ans": "Le responsable local de Météo France",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 43,
+            "quest": "Les baïnes :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 4301,
+                    "ans": "se trouvent exclusivement en Méditerranée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4302,
+                    "ans": "sont idéales pour la baignade des enfants.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4303,
+                    "ans": "sont dangereuses pour la baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4304,
+                    "ans": "servent à amarrer un navire.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 44,
+            "quest": "Lorsque aucun drapeau n’est hissé durant les heures de surveillance :",
+            "cat": 1,
+            "answers": [
+                {
+                    "idA": 4401,
+                    "ans": "la baignade n’est plus surveillée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4402,
+                    "ans": "tous les sauveteurs sont peut-être en intervention.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4403,
+                    "ans": "les sauveteurs doivent interdire l’accès à la baignade.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 45,
+            "quest": "Un B.N.S.S.A. peut surveiller “seul” et sans dérogation préfectorale :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 4501,
+                    "ans": "un plan d’eau d’accès gratuit.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4502,
+                    "ans": "une piscine payante.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4503,
+                    "ans": "un centre de vacances dans une piscine privée du centre.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4504,
+                    "ans": "une baignade en mer.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 46,
+            "quest": "Qui a autorité pour intervenir en premier dans le cas d’une pollution sur la plage ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 4601,
+                    "ans": "Le maire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4602,
+                    "ans": "Le Préfet du département.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4603,
+                    "ans": "Le Préfet maritime.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4604,
+                    "ans": "Le Ministre de l’Intérieur",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 47,
+            "quest": "Combien y a-t-il de C.R.O.S.S. principaux en Méditerranée ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 4701,
+                    "ans": "1",
+                    "verif": 1
+                },
+                {
+                    "idA": 4702,
+                    "ans": "2",
+                    "verif": 0
+                },
+                {
+                    "idA": 4703,
+                    "ans": "3",
+                    "verif": 0
+                },
+                {
+                    "idA": 4704,
+                    "ans": "4",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 48,
+            "quest": "Dans le cas d’une concession à un plagiste :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 4801,
+                    "ans": "la responsabilité du maire pourra toujours être recherchée en cas d’accident.",
+                    "verif": 1
+                },
+                {
+                    "idA": 4802,
+                    "ans": "le maire est déchargé de la sécurité.",
+                    "verif": 0
+                },
+                {
+                    "idA": 4803,
+                    "ans": "un poste de secours est obligatoire.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 49,
+            "quest": "Quelle est la durée de la dérogation préfectorale pour un employeur qui ne trouve pas de M.N.S. ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 4901,
+                    "ans": "1 mois mini à 4 mois maxi",
+                    "verif": 1
+                },
+                {
+                    "idA": 4902,
+                    "ans": "2 mois mini à 6 mois maxi",
+                    "verif": 0
+                },
+                {
+                    "idA": 4903,
+                    "ans": "1 an maxi",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 50,
+            "quest": "Un B.N.S.S.A. peut enseigner contre rémunération.",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5001,
+                    "ans": "Oui, l’aquagym.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5002,
+                    "ans": "Oui, la natation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5003,
+                    "ans": "Non, il ne peut rien enseigner.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 51,
+            "quest": "A partir de quel âge peut-on conduire un scooter des mers, avec le permis ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5101,
+                    "ans": "14 ans",
+                    "verif": 0
+                },
+                {
+                    "idA": 5102,
+                    "ans": "16 ans",
+                    "verif": 1
+                },
+                {
+                    "idA": 5103,
+                    "ans": "18 ans",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 52,
+            "quest": "Qui a autorité pour intervenir dans le cas d’une personne disparue en haute mer ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5201,
+                    "ans": "Le maire",
+                    "verif": 0
+                },
+                {
+                    "idA": 5202,
+                    "ans": "Le Préfet du département",
+                    "verif": 0
+                },
+                {
+                    "idA": 5203,
+                    "ans": "Le Préfet maritime",
+                    "verif": 1
+                },
+                {
+                    "idA": 5204,
+                    "ans": "Le C.R.O.S.S.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 53,
+            "quest": "Combien existe t-il de permis de plaisance pour naviguer en mer ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5301,
+                    "ans": "4",
+                    "verif": 0
+                },
+                {
+                    "idA": 5302,
+                    "ans": "3",
+                    "verif": 0
+                },
+                {
+                    "idA": 5303,
+                    "ans": "2",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 54,
+            "quest": "Un surveillant de baignade peut travailler :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5401,
+                    "ans": "en piscine comme assistant d’un M.N.S.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5402,
+                    "ans": "dans le cadre d’un accueil de loisirs pour la surveillance de mineurs.",
+                    "verif": 1
+                },
+                {
+                    "idA": 5403,
+                    "ans": "en lieu et place d’un B.N.S.S.A., dans un poste de secours.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 55,
+            "quest": "Avec le B.N.S.S.A., contre rémunération, je peux :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5501,
+                    "ans": "encadrer des élèves en club et enseigner la natation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5502,
+                    "ans": "assurer des cours d’aquagym.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5503,
+                    "ans": "surveiller des enfants en accueil de loisirs.",
+                    "verif": 1
+                },
+                {
+                    "idA": 5504,
+                    "ans": "surveiller un plan d’eau d’accès gratuit sans dérogation préfectorale.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 56,
+            "quest": "En mer, dans la zone des 300 mètres et en l’absence de balisage :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5601,
+                    "ans": "je peux pratiquer le ski nautique.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5602,
+                    "ans": "je ne dois pas dépasser les 3 nœuds.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5603,
+                    "ans": "je ne dois pas dépasser les 5 nœuds.",
+                    "verif": 1
+                },
+                {
+                    "idA": 5604,
+                    "ans": "il n’y a pas de limitation.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 57,
+            "quest": "Dans un club de natation sportive, contre rémunération :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5701,
+                    "ans": "un B.N.S.S.A. peut assurer la surveillance des adhérents.",
+                    "verif": 1
+                },
+                {
+                    "idA": 5702,
+                    "ans": "un B.N.S.S.A. peut encadrer les activités et assurer certains cours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5703,
+                    "ans": "un titulaire du titre de M.N.S. peut assurer l’enseignement de la natation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 5704,
+                    "ans": "un titulaire du titre de Surveillant de Baignade peut assurer l’enseignement de la natation.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 58,
+            "quest": "Avec un permis “bateau de plaisance option côtière”, je peux naviguer :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5801,
+                    "ans": "de jour uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5802,
+                    "ans": "de nuit uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 5803,
+                    "ans": "de jour comme de nuit.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 59,
+            "quest": "Qui est responsable de la zone des 300 mètres sur le littoral maritime ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 5901,
+                    "ans": "Le maire",
+                    "verif": 1
+                },
+                {
+                    "idA": 5902,
+                    "ans": "Le Ministre de l’Intérieur",
+                    "verif": 0
+                },
+                {
+                    "idA": 5903,
+                    "ans": "Le Préfet maritime",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 60,
+            "quest": "Les C.R.O.S.S. principaux sont au nombre de :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6001,
+                    "ans": "2 en outre-mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6002,
+                    "ans": "8 en métropole.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6003,
+                    "ans": "5 en métropole.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6004,
+                    "ans": "4 en outre-mer.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 61,
+            "quest": "Un surveillant de baignade peut :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6101,
+                    "ans": "travailler seul dans une piscine municipale avec une dérogation préfectorale.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6102,
+                    "ans": "surveiller uniquement les lieux d’accès gratuits.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6103,
+                    "ans": "surveiller la baignade dans les accueils de loisirs.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 62,
+            "quest": "J’ai 16 ans,",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6201,
+                    "ans": "Je peux passer le permis mer option côtière.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6202,
+                    "ans": "Je peux passer le permis plaisance en eaux intérieures.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6203,
+                    "ans": "Je dois attendre d’avoir 18 ans pour passer le permis mer option côtière.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6204,
+                    "ans": "Je dois attendre d’avoir 18 ans pour passer le permis plaisance en eaux intérieures.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 63,
+            "quest": "Une dérogation préfectorale, sollicitée par un employeur qui ne trouve pas de M.N.S. :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6301,
+                    "ans": "permet de travailler seul en qualité de BNSSA sur un accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6302,
+                    "ans": "a une durée maximale de 6 mois.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6303,
+                    "ans": "doit avoir une durée minimale d’un mois.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 64,
+            "quest": "Un B.N.S.S.A. peut-il surveiller seul une baignade d’accès payant ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6401,
+                    "ans": "Non, jamais.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6402,
+                    "ans": "Oui, à condition d’avoir plus de deux ans d’ancienneté.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6403,
+                    "ans": "Oui, à condition que l’établissement ait obtenu une dérogation préfectorale.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 65,
+            "quest": "Un titulaire du surveillant de baignade peut :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6501,
+                    "ans": "surveiller un groupe de 50 enfants en baignade non aménagée mais autorisée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6502,
+                    "ans": "surveiller un groupe de 30 enfants de moins de 6 ans en baignade non aménagée mais autorisée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6503,
+                    "ans": "surveiller un groupe de 30 enfants de plus de 6 ans en baignade non aménagée mais autorisée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6504,
+                    "ans": "surveiller un groupe de 15 enfants de moins de 6 ans en baignade non aménagée mais autorisée.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 66,
+            "quest": "Dans la zone des 300 mètres :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6601,
+                    "ans": "le Préfet maritime est le seul responsable",
+                    "verif": 0
+                },
+                {
+                    "idA": 6602,
+                    "ans": "le Préfet maritime peut intervenir en cas de fortes pollution.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6603,
+                    "ans": "le maire exerce la police en baignade",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 67,
+            "quest": "La natation scolaire peut-être sureveillée par :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6701,
+                    "ans": "un parent d'émève agréé.",
+                    "verif": 0
+                },
+                {
+                    "idA": 6702,
+                    "ans": "un B.P.J.E.P.S A.A.N",
+                    "verif": 1
+                },
+                {
+                    "idA": 6703,
+                    "ans": "une personne portant le titre de M.N.S.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6704,
+                    "ans": "une personne portant le titre de surveillant de baignade.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 68,
+            "quest": "Suite à une moyade dans un lieu surevillé, la responsabilité civile du B.N.S.S.A; : ",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6801,
+                    "ans": "peut être engagée",
+                    "verif": 1
+                },
+                {
+                    "idA": 6802,
+                    "ans": "ne peut jamais être engagée",
+                    "verif": 1
+                },
+                {
+                    "idA": 6803,
+                    "ans": "n'est pas engagée si un M.N.S. est présent.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 69,
+            "quest": "La demande d'une dérogation équivaut  :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 6901,
+                    "ans": "pouvoir travailler sans maître nageaur sauveteur.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6902,
+                    "ans": "Sune déclaration d'exercice dans une piscine.",
+                    "verif": 1
+                },
+                {
+                    "idA": 6903,
+                    "ans": "être autorisé à faire des cours de natation",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 70,
+            "quest": "Qui peut assurer l'enseignement contre rémunération de l'aquagym ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7001,
+                    "ans": "un BPJEPS AAN",
+                    "verif": 1
+                },
+                {
+                    "idA": 7002,
+                    "ans": "un BNSSA",
+                    "verif": 0
+                },
+                {
+                    "idA": 7003,
+                    "ans": "un MNS",
+                    "verif": 1
+                },
+                {
+                    "idA": 7004,
+                    "ans": "aucun diplôme n'est requis",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 71,
+            "quest": "Avec le permis hauturier, on peut naviguer :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7101,
+                    "ans": "en rivière uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7102,
+                    "ans": "de jour comme de nuit.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7103,
+                    "ans": "au-delà de 6 milles d’un abri.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 72,
+            "quest": "Un B.N.S.S.A. peut surveiller seul, sans dérogation préfectorale, dans :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7201,
+                    "ans": "un plan d’eau d’accès gratuit.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7202,
+                    "ans": "une piscine d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7203,
+                    "ans": "un plan d’eau d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7204,
+                    "ans": "une baignade en accueil de loisirs.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 73,
+            "quest": "Sans dérogation préfectorale, un B.N.S.S.A. :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7301,
+                    "ans": "peut assurer la surveillance d’un accès payant, en assistance d’un M.N.S.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7302,
+                    "ans": "peut assurer la surveillance d’un plan d’eau d’accès gratuit.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7303,
+                    "ans": "peut assurer la surveillance d’une baignade pour les besoins d’un accueil collectif de mineurs.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7304,
+                    "ans": "peut surveiller seul une piscine d’accès payant.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 74,
+            "quest": "Lorsqu’un B.N.S.S.A. travaille en piscine, dans 2 départements au cours de l’année, il doit faire :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7401,
+                    "ans": "une seule déclaration dans le département de son choix.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7402,
+                    "ans": "une déclaration au préfet du lieu de sa principale activité.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7403,
+                    "ans": "une déclaration à la région qui gère les 2 départements.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 75,
+            "quest": "Avec un B.N.S.S.A. je peux, sans dérogation :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7501,
+                    "ans": "surveiller une baignade pour un club de natation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7502,
+                    "ans": "Surveiller seul un plan d’eau d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7503,
+                    "ans": "assurer la sécurité des centres d’accueils de loisirs pour mineurs.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7504,
+                    "ans": "enseigner contre rémunération la natation en assistance d’un maître nageur.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 76,
+            "quest": "Un B.N.S.S.A. qui travaille dans une piscine municipale, peut surveiller :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7601,
+                    "ans": "seul toute l’année avec dérogation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7602,
+                    "ans": "seul entre 1 mois minimum et 4 mois maximum avec dérogation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7603,
+                    "ans": "seul, uniquement s’il a réussi un concours dans la fonction publique.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 77,
+            "quest": "Dans un lieu d’accès payant, un B.N.S.S.A. doit obligatoirement être déclaré en préfecture :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7701,
+                    "ans": "pour travailler seul.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7702,
+                    "ans": "pour travailler en présence d’un M.N.S.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7703,
+                    "ans": "pour avoir une carte professionnelle.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7704,
+                    "ans": "n’a pas de déclaration à faire, seuls les maîtres nageurs doivent se déclarer.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 78,
+            "quest": "Avec un B.N.S.S.A. et par dérogation, vous pouvez :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7801,
+                    "ans": "entraîner contre rémunération, des nageurs dans un club de natation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7802,
+                    "ans": "surveiller une piscine municipale.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7803,
+                    "ans": "donner des cours de natation dans la piscine d’un camping.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 79,
+            "quest": "Un B.N.S.S.A. peut piloter un bateau à moteur qui est à sa disposition au poste de secours :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 7901,
+                    "ans": "sans permis, quelle que soit la puissance du moteur s’il ne dépasse pas une vitesse de 5 nœuds.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7902,
+                    "ans": "sans permis, quelle que soit la puissance du moteur, c’est un engin de secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 7903,
+                    "ans": "sans permis, uniquement si la puissance du moteur est inférieure à 6 CV.",
+                    "verif": 1
+                },
+                {
+                    "idA": 7904,
+                    "ans": "avec permis de plaisance, option côtière, quelle que soit la puissance du moteur à une distance maximum de 6 milles d’un abri.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 80,
+            "quest": "Avec un permis mer côtier, vous pouvez :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8001,
+                    "ans": "naviguer jusqu’à 6 milles d’un abri de jour comme de nuit.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8002,
+                    "ans": "naviguer jusqu’à 10 milles des côtes de jour uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8003,
+                    "ans": "naviguer sans limitation de distance.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8004,
+                    "ans": "naviguer sans limite de vitesse au-delà des 300 m.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 81,
+            "quest": "Parmi ces obligations, lesquelles sont applicables au B.N.S.S.A. souhaitant exercer en piscine ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8101,
+                    "ans": "Être titulaire du certificat de compétence PSE 2.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8102,
+                    "ans": "Le récépissé de déclaration de la préfecture.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8103,
+                    "ans": "Le certificat de vaccination pour l’hépatite B.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8104,
+                    "ans": "L’affichage du diplôme.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 82,
+            "quest": "Pour une navigation de plaisance avec un bateau classé en catégorie de type C :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8201,
+                    "ans": "Je dois naviguer à proximité des côtes et à moins de 6 milles d’un abri.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8202,
+                    "ans": "Le navire doit pouvoir résister à un vent pouvant aller jusqu’à force 6 et à des vagues de 4 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8203,
+                    "ans": "Les fusées de détresse ne sont pas obligatoires.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 83,
+            "quest": "La responsabilité civile d’un B.N.S.S.A. peut être engagée pour une faute dont l’origine est considérée comme :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8301,
+                    "ans": "uniquement volontaire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8302,
+                    "ans": "uniquement non volontaire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8303,
+                    "ans": "volontaire et non volontaire.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 84,
+            "quest": "Un titulaire du permis “eaux intérieures”.",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8401,
+                    "ans": "peut assurer la conduite, en eaux intérieures, d’un bateau de plaisance dont la longueur est limitée à 20 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8402,
+                    "ans": "peut naviguer en mer dans la limite des 300 m.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8403,
+                    "ans": "doit se soumettre à un recyclage tous les 5 ans.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8404,
+                    "ans": "est limité à une puissance moteur de 20 Cv.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 85,
+            "quest": "Une activité de gym aquatique peut-elle être encadrée par un B.N.S.S.A. légalement déclaré et rémunéré ?",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8501,
+                    "ans": "Oui, sans condition.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8502,
+                    "ans": "Oui avec dérogation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8503,
+                    "ans": "Non.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 86,
+            "quest": "Les zones de navigation :",
+            "cat": 2,
+            "answers": [
+                {
+                    "idA": 8601,
+                    "ans": "Il existe trois zones de navigation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8602,
+                    "ans": "Il existe deux zones de navigation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8603,
+                    "ans": "La première zone de navigation se limite à moins de 6 milles d’un abri.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 87,
+            "quest": "En combien de catégories sont classifiées les baignades en eau libre ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 8701,
+                    "ans": "1 catégorie",
+                    "verif": 0
+                },
+                {
+                    "idA": 8702,
+                    "ans": "2 catégories",
+                    "verif": 0
+                },
+                {
+                    "idA": 8703,
+                    "ans": "3 catégories",
+                    "verif": 1
+                },
+                {
+                    "idA": 8704,
+                    "ans": "4 catégories",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 88,
+            "quest": "Qui a autorité pour intervenir dans le cas d’un bateau immatriculé, à la dérive ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 8801,
+                    "ans": "Le maire",
+                    "verif": 0
+                },
+                {
+                    "idA": 8802,
+                    "ans": "Le Préfet du département",
+                    "verif": 0
+                },
+                {
+                    "idA": 8803,
+                    "ans": "Le Préfet maritime",
+                    "verif": 1
+                },
+                {
+                    "idA": 8804,
+                    "ans": "Le Ministre de l’Intérieur",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 89,
+            "quest": "Le maire :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 8901,
+                    "ans": "recrute le personnel de surveillance des plages.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8902,
+                    "ans": "détermine la couleur du drapeau à hisser.",
+                    "verif": 0
+                },
+                {
+                    "idA": 8903,
+                    "ans": "fait afficher un arrêté municipal pour la baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 8904,
+                    "ans": "dispose des pouvoirs de police spéciale.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 90,
+            "quest": "Combien y a-t-il de C.R.O.S.S. principaux en France métropolitaine ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9001,
+                    "ans": "3",
+                    "verif": 0
+                },
+                {
+                    "idA": 9002,
+                    "ans": "4",
+                    "verif": 0
+                },
+                {
+                    "idA": 9003,
+                    "ans": "5",
+                    "verif": 1
+                },
+                {
+                    "idA": 9004,
+                    "ans": "6",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 91,
+            "quest": "Le S.A.M.U. est :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9101,
+                    "ans": "un service hospitalier.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9102,
+                    "ans": "rattaché aux sapeurs pompiers.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9103,
+                    "ans": "un service de la préfecture.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 92,
+            "quest": "Dans un lieu de baignade, avec un accueil de loisirs accompagné d’un surveillant de baignade :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9201,
+                    "ans": "les enfants peuvent se baigner dans un lieu aménagé et surveillé.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9202,
+                    "ans": "les enfants peuvent se baigner dans un lieu non aménagé et non surveillé.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9203,
+                    "ans": "les enfants peuvent se baigner dans un lieu signalé comme dangereux.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 93,
+            "quest": "Les limites de zone de bain :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9301,
+                    "ans": "peuvent être délimitées par des drapeaux rouge et jaune.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9302,
+                    "ans": "déterminent la limite de réglementation du maire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9303,
+                    "ans": "peuvent bouger au cours de la journée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9304,
+                    "ans": "en mer, vers le large la responsabilité administrative du maire s’arrête à 300 m.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 94,
+            "quest": "Il existe différentes catégories de baignade qui sont :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9401,
+                    "ans": "les zones dangereuses, où il est interdit de se baigner.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9402,
+                    "ans": "les zones où le public peut se baigner à ses risques et périls.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9403,
+                    "ans": "les zones de baignades aménagées et surveillées.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9404,
+                    "ans": "les zones de baignades aménagées et non surveillées.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 95,
+            "quest": "Le préfet maritime peut intervenir dans la zone des 300 mètres :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9501,
+                    "ans": "si l’ampleur de la catastrophe est trop importante pour être gérée par le maire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9502,
+                    "ans": "seulement si le maire donne son accord.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9503,
+                    "ans": "si la zone n’est pas aménagée pour la baignade.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 96,
+            "quest": "Le C.R.O.S.S. :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9601,
+                    "ans": "est sous l’autorité du Préfet maritime.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9602,
+                    "ans": "est sous l’autorité du Préfet de Région.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9603,
+                    "ans": "assure des missions de surveillance et de sauvetage.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 97,
+            "quest": "Les analyses bactériologiques d’une zone de baignade sont ordonnées par :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9701,
+                    "ans": "le maire",
+                    "verif": 0
+                },
+                {
+                    "idA": 9702,
+                    "ans": "un laboratoire agréé",
+                    "verif": 0
+                },
+                {
+                    "idA": 9703,
+                    "ans": "l’agence régionale de la santé",
+                    "verif": 1
+                },
+                {
+                    "idA": 9704,
+                    "ans": "le chef de poste",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 98,
+            "quest": "Le droit des baignades est de la responsabilité :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9801,
+                    "ans": "du directeur de l’agence régionale de l’eau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9802,
+                    "ans": "du maire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 9803,
+                    "ans": "du président du syndicat d’eau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 9804,
+                    "ans": "du président d’une communauté de communes.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 99,
+            "quest": "Quels sont les principaux recruteurs de personnel dans les postes de secours ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 9901,
+                    "ans": "Les maires",
+                    "verif": 1
+                },
+                {
+                    "idA": 9902,
+                    "ans": "Les services départementaux d’incendie et secours",
+                    "verif": 0
+                },
+                {
+                    "idA": 9903,
+                    "ans": "Les compagnies républicaines de sécurité",
+                    "verif": 0
+                },
+                {
+                    "idA": 9904,
+                    "ans": "Les conseils départementaux",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 100,
+            "quest": "Le C.R.O.S.S. veille 24h/24 les appels de détresse, en V.H.F., sur :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10001,
+                    "ans": "le canal 16",
+                    "verif": 1
+                },
+                {
+                    "idA": 10002,
+                    "ans": "le canal 15",
+                    "verif": 0
+                },
+                {
+                    "idA": 10003,
+                    "ans": "le canal 17",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 101,
+            "quest": "Le S.A.M.U. :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10101,
+                    "ans": "est le Service d’Aide Médicale Urgente.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10102,
+                    "ans": "est le Service d’Assistance Médicalisé d’Urgence.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10103,
+                    "ans": "dispose de S.M.U.R.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 102,
+            "quest": "Le Préfet peut prendre la décision d’interdire une baignade :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10201,
+                    "ans": "lorsque le maire ne respecte pas ses obligations.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10202,
+                    "ans": "lorsqu’un conflit politique oppose le maire et le Préfet.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10203,
+                    "ans": "ne peut pas l’interdire, mais c’est le maire qui sera responsable devant la justice.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10204,
+                    "ans": "sur avis, de la direction départementale à la jeunesse, à l’engagement et aux sports.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 103,
+            "quest": "Au-delà de la bande des 300 m, un plaisancier appelle à l’aide. Les sauveteurs :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10301,
+                    "ans": "ne doivent pas intervenir car c’est de la responsabilité du Préfet maritime.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10302,
+                    "ans": "ne doivent pas intervenir car ils peuvent se mettent en péril eux-mêmes.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10303,
+                    "ans": "doivent porter secours même en dehors de leur zone de surveillance.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10304,
+                    "ans": "doivent informer le C.R.O.S.S.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 104,
+            "quest": "Lorsqu’une baignade en milieu naturel est ouverte, les analyses de l’eau sont faites :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10401,
+                    "ans": "à la convenance du maire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10402,
+                    "ans": "au minimum une fois par mois.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10403,
+                    "ans": "uniquement en cas d’aspect inquiétant de l’eau.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 105,
+            "quest": "Dans un établissement de bain d’accès payant :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10501,
+                    "ans": "l’affichage des diplômes est obligatoire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10502,
+                    "ans": "l’affichage des diplômes n’est pas obligatoire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10503,
+                    "ans": "le personnel chargé de la surveillance doit être déclaré auprès de la préfecture.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 106,
+            "quest": "Où le P.O.S.S. doit-il obligatoirement être installé ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10601,
+                    "ans": "Dans tous les établissements de bain d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10602,
+                    "ans": "Dans les lieux de baignades autorisés et d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10603,
+                    "ans": "Dans les piscines de copropriétés.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 107,
+            "quest": "Sur une commune du littoral, le maire reste responsable de la baignade :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10701,
+                    "ans": "durant toute l’année.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10702,
+                    "ans": "uniquement pendant la période estivale.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10703,
+                    "ans": "n’est jamais responsable tant qu’il n’a pas installé de poste de secours.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 108,
+            "quest": "En cas de noyade dans la bande des 300 m, au-delà de leur zone de surveillance, les sauveteurs :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10801,
+                    "ans": "ne doivent pas intervenir car ils quittent leur zone de surveillance.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10802,
+                    "ans": "doivent intervenir en mettant en œuvre les moyens dont ils disposent.",
+                    "verif": 1
+                },
+                {
+                    "idA": 10803,
+                    "ans": "doivent prévenir le maire avant de porter secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 10804,
+                    "ans": "doivent prévenir le C.R.O.S.S. avant de porter secours.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 109,
+            "quest": "Qui a autorité pour intervenir en premier lieu, en cas de faible pollution, en bordure de plage ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 10901,
+                    "ans": "Le maire",
+                    "verif": 1
+                },
+                {
+                    "idA": 10902,
+                    "ans": "Le Préfet du département",
+                    "verif": 0
+                },
+                {
+                    "idA": 10903,
+                    "ans": "Le Préfet maritime",
+                    "verif": 0
+                },
+                {
+                    "idA": 10904,
+                    "ans": "Le Ministère de l’Intérieur",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 110,
+            "quest": "Sur une plage, en dehors de la saison estivale, un maire peut interdire la baignade pour être déchargé de sa responsabilité en cas de noyade.",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 11001,
+                    "ans": "Vrai, car la baignade est interdite.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11002,
+                    "ans": "Vrai, même si les personnes se baignent à leurs risques et périls.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11003,
+                    "ans": "Faux, un maire reste responsable de sa plage en toutes circonstances.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 111,
+            "quest": "Comment se nomme le document affiché dans un poste de secours pour réglementer la plage ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 11101,
+                    "ans": "Une loi",
+                    "verif": 0
+                },
+                {
+                    "idA": 11102,
+                    "ans": "Un décret ministériel",
+                    "verif": 0
+                },
+                {
+                    "idA": 11103,
+                    "ans": "Un arrêté municipal",
+                    "verif": 1
+                },
+                {
+                    "idA": 11104,
+                    "ans": "Une circulaire ministérielle",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 112,
+            "quest": "Le maire peut salarier un sauveteur dans un poste de secours comme :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 11201,
+                    "ans": "travailleur indépendant",
+                    "verif": 0
+                },
+                {
+                    "idA": 11202,
+                    "ans": "employé communal",
+                    "verif": 1
+                },
+                {
+                    "idA": 11203,
+                    "ans": "auto-entrepreneur",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 113,
+            "quest": "Qui recrute le personnel pour armer les postes de secours ?",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 11301,
+                    "ans": "Le maire",
+                    "verif": 1
+                },
+                {
+                    "idA": 11302,
+                    "ans": "Le Préfet du département",
+                    "verif": 0
+                },
+                {
+                    "idA": 11303,
+                    "ans": "Le Préfet maritime",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 114,
+            "quest": "Un surveillant de baignade :",
+            "cat": 3,
+            "answers": [
+                {
+                    "idA": 11401,
+                    "ans": "peut organiser une baignade de mineurs sur une plage surveillée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11402,
+                    "ans": "peut organiser une baignade de mineurs sur une plage non surveillée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11403,
+                    "ans": "peut assurer la surveillance de mineurs uniquement en assistance d’un M.N.S.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 115,
+            "quest": "Le C.R.O.S.S. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 11501,
+                    "ans": "coordonne les opérations de sauvetage.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11502,
+                    "ans": "met en place les zones aménagées de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11503,
+                    "ans": "recrute les équipes qui assurent la surveillance des plages.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11504,
+                    "ans": "assure la surveillance et la police des pêches maritimes.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 116,
+            "quest": "Les drapeaux de couleur :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 11601,
+                    "ans": "sont au nombre de 3 (Vert / Jaune / Rouge).",
+                    "verif": 1
+                },
+                {
+                    "idA": 11602,
+                    "ans": "sont obligatoires en piscine.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11603,
+                    "ans": "Le mât, sur lequel ils sont hissés, ne peut porter que des signaux relatifs aux conditions de baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11604,
+                    "ans": "doivent toujours être hissés en cas d’intervention des sauveteurs.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 117,
+            "quest": "Suite à un appel du C.R.O.S.S. tous les sauveteurs doivent partir en mer porter secours. Avant de quitter la surveillance de la plage :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 11701,
+                    "ans": "ils hissent le drapeau rouge.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11702,
+                    "ans": "ils abaissent le drapeau des conditions de baignades en place.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11703,
+                    "ans": "ils informent les usagers de la suspension de la surveillance.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 118,
+            "quest": "Les C.R.O.S.S. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 11801,
+                    "ans": "coordonnent les missions de sauvetage en mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11802,
+                    "ans": "disposent entre autres des moyens de la S.N.S.M.",
+                    "verif": 1
+                },
+                {
+                    "idA": 11803,
+                    "ans": "Le C.R.O.S.S. Etel assure la couverture de toute la zone Atlantique.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 119,
+            "quest": "Un poste de secours doit être de couleur :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 11901,
+                    "ans": "bleue",
+                    "verif": 0
+                },
+                {
+                    "idA": 11902,
+                    "ans": "Indifférente, mais identifiable par un bandeau rouge et jaune de 20 cm.",
+                    "verif": 0
+                },
+                {
+                    "idA": 11903,
+                    "ans": "rouge",
+                    "verif": 0
+                },
+                {
+                    "idA": 11904,
+                    "ans": "blanche",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 120,
+            "quest": "Le P.O.S.S. est obligatoire :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12001,
+                    "ans": "dans tous les lieux de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12002,
+                    "ans": "dans les piscines uniquement.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12003,
+                    "ans": "uniquement dans les lieux d’accès payant.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12004,
+                    "ans": "uniquement lorsqu’il y a un maître nageur sauveteur.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 121,
+            "quest": "En zone métropolitaine, lorsque l’on vient du large, en entrant dans un port :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12101,
+                    "ans": "on trouve à tribord des balises vertes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12102,
+                    "ans": "on trouve à bâbord des balises rouges.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12103,
+                    "ans": "on trouve à tribord des balises rouges.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12104,
+                    "ans": "on trouve à bâbord des balises vertes.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 122,
+            "quest": "Les analyses de qualité de l’eau doivent être affichées.",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12201,
+                    "ans": "Non c’est une information confidentielle.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12202,
+                    "ans": "Oui, au poste de secours, et visible par le public.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12203,
+                    "ans": "Uniquement à l’office de tourisme et en Mairie.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 123,
+            "quest": "Qui coordonne les secours en mer ?",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12301,
+                    "ans": "Les C.R.S.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12302,
+                    "ans": "Le S.D.I.S.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12303,
+                    "ans": "Le C.R.O.S.S.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12304,
+                    "ans": "La S.N.S.M.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 124,
+            "quest": "Pour fermer un poste, le drapeau est baissé :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12401,
+                    "ans": "avant le rangement de tout le matériel.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12402,
+                    "ans": "après le rangement de tout le matériel.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12403,
+                    "ans": "à l’heure fixée par les horaires de surveillance.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 125,
+            "quest": "La zone de bain :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12501,
+                    "ans": "doit toujours se situer au même endroit.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12502,
+                    "ans": "Le maire est responsable de sa matérialisation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12503,
+                    "ans": "Le Préfet maritime est responsable de sa matérialisation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12504,
+                    "ans": "lorsqu’elle est signalée par des limites amovibles, le chef de Poste est responsable de sa matérialisation.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 126,
+            "quest": "Une zone de baignade surveillée peut être délimitée par :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12601,
+                    "ans": "des fanions vert montés sur des piquets qui peuvent être mobiles.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12602,
+                    "ans": "des drapeaux rouge et jaune montés sur des piquets qui peuvent être mobiles.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12603,
+                    "ans": "des bouées sphériques jaunes",
+                    "verif": 1
+                },
+                {
+                    "idA": 12604,
+                    "ans": "des panneaux fixes à fond blancs et inscription en rouge.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 127,
+            "quest": "Un véhicule nautique à moteur (V.N.M.) :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12701,
+                    "ans": "a une puissance propulsive dépassant 4Cv.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12702,
+                    "ans": "peut être conduit, seul, sans permis.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12703,
+                    "ans": "doit contenir dans son équipement un gilet de sauvetage.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12704,
+                    "ans": "n’a pas obligatoirement de coupe-circuit.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 128,
+            "quest": "Les bouées",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12801,
+                    "ans": "Les marques cardinales signalent un danger particulier.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12802,
+                    "ans": "Le maire peut poser des bouées dans la zone de 300 mètres.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12803,
+                    "ans": "Une bouée triangulaire est une marque latérale tribord.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 129,
+            "quest": "Le drapeau rouge est hissé.",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 12901,
+                    "ans": "Il signale que la zone de baignade est interdite et surveillée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 12902,
+                    "ans": "Il permet au sauveteur de quitter le poste.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12903,
+                    "ans": "Il indique que la baignade est dangereuse mais surveillée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 12904,
+                    "ans": "Il peut l’être en présence d’un orage.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 130,
+            "quest": "Le P.O.S.S. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13001,
+                    "ans": "doit être affiché dans un endroit visible au public.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13002,
+                    "ans": "n’est pas obligatoirement affiché.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13003,
+                    "ans": "Recense notamment tous les risques potentiels que peut présenter le lieu où il s’applique.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13004,
+                    "ans": "ne recense que les risques liés à l’eau.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 131,
+            "quest": "Le chef de poste :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13101,
+                    "ans": "détient la responsabilité du choix du drapeau.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13102,
+                    "ans": "le maire peut lui imposer la couleur du drapeau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13103,
+                    "ans": "peut voir sa responsabilité pénale engagée en cas d’homicide par noyade dans la zone surveillée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13104,
+                    "ans": "doit régulièrement envoyer des patrouilles pour surveiller les zones non surveillées.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 132,
+            "quest": "Le P.O.S.S. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13201,
+                    "ans": "doit comprendre un descriptif des installations.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13202,
+                    "ans": "n’est pas obligatoire en piscine.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13203,
+                    "ans": "est le plan d’organisation de la surveillance et des secours.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 133,
+            "quest": "Lors de sa 1ère prise de service en milieu naturel, un B.N.S.S.A. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13301,
+                    "ans": "doit consulter le plan de secours s’il existe.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13302,
+                    "ans": "doit vérifier l’ensemble du matériel.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13303,
+                    "ans": "doit détenir le permis bateau.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 134,
+            "quest": "Le S.D.I.S. dépêche sur les lieux d’un accident :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13401,
+                    "ans": "Un véhicule de secours aux blessés.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13402,
+                    "ans": "Un véhicule de secours et d’assistance aux victimes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13403,
+                    "ans": "Un véhicule d’assistance de secours et de soins urgents.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13404,
+                    "ans": "Une ambulance de réanimation.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 135,
+            "quest": "Le P.O.S.S. c’est :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13501,
+                    "ans": "le plan d’organisation de la surveillance et des secours.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13502,
+                    "ans": "le plan d’occupation du sauvetage et des secours.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13503,
+                    "ans": "le préfet opérationnel pour la sécurité et le sauvetage.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 136,
+            "quest": "L’entretien des baignades surveillées nécessite que :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13601,
+                    "ans": "des pancartes rappellent aux usagers les mesures d’hygiène auxquelles ils doivent se conformer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13602,
+                    "ans": "c’est le chef de poste qui est responsable de l’hygiène du nettoyage de la plage.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13603,
+                    "ans": "les communes doivent disposer des douches, WC et réceptacles de déchets sur la plage.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 137,
+            "quest": "Les sauveteurs abaissent le drapeau :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13701,
+                    "ans": "quand une intervention importante le nécessite.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13702,
+                    "ans": "pour aller manger.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13703,
+                    "ans": "à la fermeture du poste de secours.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13704,
+                    "ans": "quand la mer est dangereuse.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 138,
+            "quest": "Le C.R.O.S.S. veille :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13801,
+                    "ans": "au respect des règlements maritimes nationaux.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13802,
+                    "ans": "à la sécurité des gens de la mer.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13803,
+                    "ans": "au respect des règles de plongée en mer.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 139,
+            "quest": "Les C.R.O.S.S. sont sous l’autorité :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 13901,
+                    "ans": "des préfectures de département.",
+                    "verif": 0
+                },
+                {
+                    "idA": 13902,
+                    "ans": "des préfectures maritimes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 13903,
+                    "ans": "des sous-préfectures.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 140,
+            "quest": "Le C.O.D.I.S. gère les interventions de secours sur :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 14001,
+                    "ans": "l’arrondissement",
+                    "verif": 0
+                },
+                {
+                    "idA": 14002,
+                    "ans": "le département",
+                    "verif": 1
+                },
+                {
+                    "idA": 14003,
+                    "ans": "la région",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 141,
+            "quest": "Dans une baignade surveillée, l’aménagement d’une zone dite “petit bain” :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 14101,
+                    "ans": "est obligatoire.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14102,
+                    "ans": "est souhaitable, dès que possible.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14103,
+                    "ans": "voit sa profondeur d’eau limitée à 2 m.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 142,
+            "quest": "Dans une piscine intercommunale et ouverte au public, le P.O.S.S. :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 14201,
+                    "ans": "est obligatoire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14202,
+                    "ans": "est un document interne et ne doit pas être affiché.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14203,
+                    "ans": "n’est pas obligatoire mais recommandé.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 143,
+            "quest": "Les engins de plage :",
+            "cat": 4,
+            "answers": [
+                {
+                    "idA": 14301,
+                    "ans": "doivent naviguer dans la zone des 300 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14302,
+                    "ans": "peuvent naviguer jusqu’à 1 mille d’un abri.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14303,
+                    "ans": "nécessitent une surveillance accrue par vent de terre.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 144,
+            "quest": "La chasse sous-marine :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14401,
+                    "ans": "est autorisée avec des bouteilles de plongée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14402,
+                    "ans": "est autorisée de jour comme de nuit.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14403,
+                    "ans": "Il est interdit de détenir un fusil chargé hors de l’eau.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14404,
+                    "ans": "Le produit de la pêche peut être vendu.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 145,
+            "quest": "Les bateaux gonflables et les matelas pneumatiques sont :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14501,
+                    "ans": "uniquement utilisés dans la bande des 300 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14502,
+                    "ans": "ne sont pas considérés comme des engins de plages.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14503,
+                    "ans": "doivent être utilisés dans le chenal traversier.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14504,
+                    "ans": "sont utilisables jusqu’à 1 mille des côtes.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 146,
+            "quest": "En mer, un véhicule nautique à moteur de 100 Cv, peut être piloté avec :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14601,
+                    "ans": "le permis de conduire automobile catégorie A.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14602,
+                    "ans": "le permis mer option côtière.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14603,
+                    "ans": "aucun permis.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14604,
+                    "ans": "le permis hauturier.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 147,
+            "quest": "Quelle est la vitesse maximale autorisée avec un bateau à moteur dans la zone des 300 mètres ?",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14701,
+                    "ans": "3 nœuds",
+                    "verif": 0
+                },
+                {
+                    "idA": 14702,
+                    "ans": "5 nœuds",
+                    "verif": 1
+                },
+                {
+                    "idA": 14703,
+                    "ans": "Non limitée.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 148,
+            "quest": "Si un groupe de 40 enfants de plus de 6 ans et de moins de 12 ans est sur une plage “non surveillée” mais autorisée avec 1 surveillant de baignade et 8 animateurs :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14801,
+                    "ans": "le surveillant de baignade peut organiser une baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14802,
+                    "ans": "la baignade doit être matérialisée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14803,
+                    "ans": "il n’y a pas d’obligation de matérialisation ou de balisage.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 149,
+            "quest": "La planche à voile peut se pratiquer :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 14901,
+                    "ans": "dans la bande des 300 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14902,
+                    "ans": "dans la zone de baignade surveillée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 14903,
+                    "ans": "uniquement en dehors de la zone de baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 14904,
+                    "ans": "uniquement en dehors de la bande des 300 m.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 150,
+            "quest": "Une activité de plongeur peut être signalée par :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15001,
+                    "ans": "un pavillon bleu et blanc alpha.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15002,
+                    "ans": "un pavillon rouge et blanc nommé “croix de Saint André”.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15003,
+                    "ans": "un pavillon rouge barré d’une bande blanche nommé “C.M.A.S.”.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15004,
+                    "ans": "aucun de ces pavillons.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 151,
+            "quest": "Avec un centre de vacances, vous pouvez vous baigner :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15101,
+                    "ans": "où vous voulez.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15102,
+                    "ans": "en dehors des zones surveillées et en dehors des zones dangereuses.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15103,
+                    "ans": "sur des plages surveillées.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 152,
+            "quest": "Concernant les groupes d’enfants en centre de vacances :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15201,
+                    "ans": "les enfants de plus de 6 ans peuvent être 20 dans l’eau au maximum.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15202,
+                    "ans": "pour les enfants de plus de 6 ans, un animateur pour 8 doit être présent dans l’eau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15203,
+                    "ans": "les enfants de moins de 6 ans peuvent être au maximum 40 dans l’eau.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15204,
+                    "ans": "pour les enfants de moins de 6 ans, un animateur pour 5 doit être présent dans l’eau.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 153,
+            "quest": "Pour pratiquer la chasse sous-marine il faut :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15301,
+                    "ans": "chasser la nuit.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15302,
+                    "ans": "utiliser un scaphandre autonome.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15303,
+                    "ans": "avoir 16 ans.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 154,
+            "quest": "Pour pratiquer la chasse sous-marine il faut :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15401,
+                    "ans": "être âgé de 16 ans au moins",
+                    "verif": 1
+                },
+                {
+                    "idA": 15402,
+                    "ans": "signaler sa présence au moyen d’une bouée surmontée d’un pavillon.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15403,
+                    "ans": "chasser entre le coucher et le lever du soleil.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 155,
+            "quest": "Les plongeurs en scaphandre autonome",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15501,
+                    "ans": "peuvent pratiquer la chasse sous-marine.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15502,
+                    "ans": "utilisent le pavillon Bravo pour se signaler.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15503,
+                    "ans": "n’ont pas besoin de se signaler en surface.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15504,
+                    "ans": "utilisent le pavillon Alpha pour se signaler.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 156,
+            "quest": "Avec une planche aérotractée (kitesurf), je peux naviguer :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15601,
+                    "ans": "au maximum jusqu’à 1 mille d’un abri.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15602,
+                    "ans": "jusqu’à 2 milles d’un abri, au maximum.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15603,
+                    "ans": "jusqu’à 6 milles d’un abri, au maximum.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15604,
+                    "ans": "sans limitation de distance, si je suis expérimenté.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 157,
+            "quest": "Sur une plage, aménagée et surveillée, on doit trouver obligatoirement :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15701,
+                    "ans": "un panneau journalier d’information.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15702,
+                    "ans": "un panneau permanent d’information.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15703,
+                    "ans": "un panneau de l’office de tourisme.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 158,
+            "quest": "La pêche à la ligne, en milieu maritime :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15801,
+                    "ans": "est autorisée dans les zones de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15802,
+                    "ans": "est interdite dans les ports.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15803,
+                    "ans": "doit respecter la réglementation sur les tailles des poissons.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 159,
+            "quest": "Pour pratiquer le ski nautique :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 15901,
+                    "ans": "je dois porter un gilet de sauvetage.",
+                    "verif": 1
+                },
+                {
+                    "idA": 15902,
+                    "ans": "en rivière, je peux pratiquer n’importe où.",
+                    "verif": 0
+                },
+                {
+                    "idA": 15903,
+                    "ans": "en mer, je dois pratiquer au-delà de la zone des 300 m.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 160,
+            "quest": "Les surfeurs doivent :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16001,
+                    "ans": "évoluer, si elle existe, dans une zone délimitée par un drapeau à damier noir et blanc.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16002,
+                    "ans": "évoluer, si elle existe, dans une zone délimitée par une flamme rouge avec un rond vert.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16003,
+                    "ans": "interrompre leur activité par drapeau rouge.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 161,
+            "quest": "Une piscine privée et réservée aux enfants d’un centre de vacances :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16101,
+                    "ans": "peut être surveillée par un S.B.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16102,
+                    "ans": "peut être surveillée par un B.N.S.S.A.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16103,
+                    "ans": "doit obligatoirement être surveillée par un M.N.S.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 162,
+            "quest": "Pour les particuliers, la pêche en mer :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16201,
+                    "ans": "est réglementée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16202,
+                    "ans": "peut être réalisée en toute zone.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16203,
+                    "ans": "ne nécessite pas de permis de pêche en zone maritime.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 163,
+            "quest": "La chasse sous-marine est autorisée :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16301,
+                    "ans": "avec des bouteilles de plongée.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16302,
+                    "ans": "dans les ports.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16303,
+                    "ans": "à l’aide d’un fusil à armement manuel.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 164,
+            "quest": "La pêche des coquillages :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16401,
+                    "ans": "est libre.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16402,
+                    "ans": "est réglementée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16403,
+                    "ans": "ne fait l’objet d’aucune veille sanitaire spécifique.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 165,
+            "quest": "Un scooter des mers :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16501,
+                    "ans": "peut naviguer, en l’absence de balisage, à la vitesse de 5 nœuds pour sortir de la bande des 300 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16502,
+                    "ans": "peut naviguer à pleine vitesse dès lors qu’il ne s’agit pas d’une zone de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16503,
+                    "ans": "ne peut pas naviguer dans la bande des 300 m.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 166,
+            "quest": "Un kayak de mer :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16601,
+                    "ans": "ne peut évoluer qu’en présence d’une embarcation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 16602,
+                    "ans": "doit disposer d’un dispositif permettant le remorquage.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16603,
+                    "ans": "ne doit pas obligatoirement avoir un gilet de sauvetage doté d’une réserve de flottabilité.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 167,
+            "quest": "Pour la sécurité des plongeurs, un club ou une structure professionnelle doit :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16701,
+                    "ans": "disposer de matériel de secours.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16702,
+                    "ans": "avoir un directeur de plongée sur place.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16703,
+                    "ans": "se signaler au moyen du pavillon Afma.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 168,
+            "quest": "Les engins pneumatiques tractés pour les particuliers :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16801,
+                    "ans": "doivent avoir une personne à bord en plus du pilote pour surveiller l’activité.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16802,
+                    "ans": "doivent, arborer un drapeau fluorescent orange de 2 m.",
+                    "verif": 1
+                },
+                {
+                    "idA": 16803,
+                    "ans": "Les personnes embarquées sur l’engin pneumatique n’ont pas besoin de gilets.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 169,
+            "quest": "Quelle est la vitesse maximale autorisée avec un bateau à moteur dans un chenal traversier ?",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 16901,
+                    "ans": "3 nœuds",
+                    "verif": 0
+                },
+                {
+                    "idA": 16902,
+                    "ans": "5 nœuds",
+                    "verif": 1
+                },
+                {
+                    "idA": 16903,
+                    "ans": "Non limitée",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 170,
+            "quest": "Pour pratiquer le ski nautique, vous pouvez être seul à bord du bateau, si :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17001,
+                    "ans": "vous êtes titulaire du brevet d’État de ski nautique et équipé d’un rétroviseur.",
+                    "verif": 1
+                },
+                {
+                    "idA": 17002,
+                    "ans": "vous avez un rétroviseur sur votre embarcation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 17003,
+                    "ans": "vous êtes seul sur le plan d’eau.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 171,
+            "quest": "Pour pratiquer la planche à voile :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17101,
+                    "ans": "il faut pratiquer de jour uniquement.",
+                    "verif": 1
+                },
+                {
+                    "idA": 17102,
+                    "ans": "on peut le faire de jour comme de nuit.",
+                    "verif": 0
+                },
+                {
+                    "idA": 17103,
+                    "ans": "le port du gilet de sauvetage est recommandé.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 172,
+            "quest": "Le surf se pratique :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17201,
+                    "ans": "uniquement dans la zone de baignade.",
+                    "verif": 0
+                },
+                {
+                    "idA": 17202,
+                    "ans": "uniquement hors de la zone de baignade.",
+                    "verif": 1
+                },
+                {
+                    "idA": 17203,
+                    "ans": "dans une zone qui peut être délimitée par un drapeau à damier noir et blanc.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 173,
+            "quest": "La noyadde :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17301,
+                    "ans": "a toujours pour origine une défaillance physique (épuisement, manque de technique de nage,...)",
+                    "verif": 1
+                },
+                {
+                    "idA": 17302,
+                    "ans": "nécessite un suivi médical après inhalation",
+                    "verif": 0
+                },
+                {
+                    "idA": 17303,
+                    "ans": "se présente avec 3 stades dans le tableau clinique",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 174,
+            "quest": "Lors d'un accident de plongée",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 17401,
+                    "ans": "il suffit d'organiser la prise en charge du plongeur accidenté",
+                    "verif": 0
+                },
+                {
+                    "idA": 17402,
+                    "ans": "il faut organiser la pise en charge de la palanquée complète",
+                    "verif": 1
+                },
+                {
+                    "idA": 17403,
+                    "ans": "en mer, le CROSSS doit être informé",
+                    "verif": 1
+                },
+                {
+                    "idA": 17404,
+                    "ans": "en lac, Voies Navigables de France doit être informé",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 175,
+            "quest": "Le chlore utilisé en piscine pour le traitement de l'eau :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 17501,
+                    "ans": "peut s'avérer très toxique",
+                    "verif": 1
+                },
+                {
+                    "idA": 17502,
+                    "ans": "peut être conditionné sous forme liquide, solide et gazeuse",
+                    "verif": 1
+                },
+                {
+                    "idA": 17503,
+                    "ans": "a des propiété spécifique pour ne pas brûler au contact avec la peau",
+                    "verif": 0
+                },
+                {
+                    "idA": 17504,
+                    "ans": "a des propiété spécifique pour ne pas exploser en cas de mauvaise manipulation",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 176,
+            "quest": "Dans le cas d'un enfant en arr^t cardiaque, suite à une noyade, il faut :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 17601,
+                    "ans": "commencer immédiatment par faire 5 inssuflations",
+                    "verif": 1
+                },
+                {
+                    "idA": 17602,
+                    "ans": "commencer immédiatement par faire le massage cardiaque",
+                    "verif": 0
+                },
+                {
+                    "idA": 17603,
+                    "ans": "masser au moins à 100 compression à la minute",
+                    "verif": 1
+                },
+                {
+                    "idA": 17604,
+                    "ans": "masser au moins à 150 compressions à la minute",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 177,
+            "quest": "Un mailse dû à une exposition prolongée au soleil :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17701,
+                    "ans": "peut avoir des répercution neurologiques",
+                    "verif": 1
+                },
+                {
+                    "idA": 17702,
+                    "ans": "peut être le signe d'une atteinte grave",
+                    "verif": 1
+                },
+                {
+                    "idA": 17703,
+                    "ans": "impose au sauveteur de faire boire la personne",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 178,
+            "quest": "Pour un adulte sous inhalation d'oxygène avec un masque haute concentration, on règle le débit initial à :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17801,
+                    "ans": "15 l/mn",
+                    "verif": 1
+                },
+                {
+                    "idA": 17802,
+                    "ans": "6 l/mn",
+                    "verif": 0
+                },
+                {
+                    "idA": 17803,
+                    "ans": "9 l/mn",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 179,
+            "quest": "A la suite d'une piqûre de vive :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 17901,
+                    "ans": "je dois nettoyer la plaie",
+                    "verif": 1
+                },
+                {
+                    "idA": 17902,
+                    "ans": "le venin étant thermolabile, je dois approcher une source de chaleur pour le détruire",
+                    "verif": 1
+                },
+                {
+                    "idA": 17903,
+                    "ans": "la victime peut se baigner sit^t la plaie désinfectée",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 180,
+            "quest": "Le matériel de réanimation cardio-pulmonaire est composé :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 18001,
+                    "ans": "d'un ballon auto remplisseur",
+                    "verif": 1
+                },
+                {
+                    "idA": 18002,
+                    "ans": "d'une bouteille d'air comprimé",
+                    "verif": 0
+                },
+                {
+                    "idA": 18003,
+                    "ans": "d'un aspirateur de mucosités",
+                    "verif": 1
+                },
+                {
+                    "idA": 18004,
+                    "ans": "d'un défibrillateur",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 181,
+            "quest": "Les satdes de la noyade :",
+            "cat": 5,
+            "answers": [
+                {
+                    "idA": 18101,
+                    "ans": "permettent de simplifier la sommunication entre les sauveteurs",
+                    "verif": 1
+                },
+                {
+                    "idA": 18102,
+                    "ans": "sont au nombre de cinq au tableau cliniques",
+                    "verif": 0
+                },
+                {
+                    "idA": 18103,
+                    "ans": "lorsque vous êtes en présence d'un stade 2, la victime est inconsciente",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 182,
+            "quest": "Soins apportés :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18201,
+                    "ans": "Une personne suspectée d'avoir inhalé de l'eau doit être hospitalisée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18202,
+                    "ans": "Une personne inconsciente qui ne ventile pas doit être placée en P.L.S.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18203,
+                    "ans": "La défibrillation précoce augmente les chances de survie lors d'une réanimation cardio-pulmonaire.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18204,
+                    "ans": "Certains malaises ou maladies graves peuvent entraîner une détresse vitale dans l'eau.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 183,
+            "quest": "Évaluation des fonctions vitales :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18301,
+                    "ans": "Il existe quatre fonctions vitales.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18302,
+                    "ans": "Dans l'ordre, le sauveteur contrôle la ventilation, l'inconscience, la circulation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18303,
+                    "ans": "L'évaluation de la fonction circulatoire ne doit pas excéder 10 secondes.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18304,
+                    "ans": "Même en cas d'hémorragie visible, le sauveteur effectue d'abord le contrôle des fonctions vitales.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 184,
+            "quest": "Lors d'un accident de plongée,",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18401,
+                    "ans": "une des raisons peut être une remontée trop rapide.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18402,
+                    "ans": "les paramètres de durée et de profondeur ne rentrent pas en ligne de compte.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18403,
+                    "ans": "il est utile de préciser le nombre de plongeurs dans la palanquée.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18404,
+                    "ans": "l'administration d'oxygène et d'aspirine est déconseillée.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 185,
+            "quest": "Lors d'un traumatisme du rachis survenant dans l'eau en piscine :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18501,
+                    "ans": "il est préférable d'extraire la victime rapidement, et ce même si elle est consciente.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18502,
+                    "ans": "il est préférable de stabiliser la victime dans l'eau en attendant les secours.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18503,
+                    "ans": "un des facteurs aggravant peut être l'hypothermie.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 186,
+            "quest": "Une personne que vous trouvez assise se plaint de douleurs dorsales en sortant d'un toboggan aquatique. Etant un sauveteur isolé :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18601,
+                    "ans": "vous assurez un maintien de la tête en attendant l'arrivée des secours extérieurs.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18602,
+                    "ans": "vous demandez à la personne de se relever pour se rendre à l'infirmerie.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18603,
+                    "ans": "vous placez seul un collier cervical en attendant l'arrivée des secours extérieurs.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 187,
+            "quest": "Lors d'une noyade :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18701,
+                    "ans": "chez l'adulte, il n'est pas nécessaire de réaliser 5 insufflations avant de débuter une réanimation.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18702,
+                    "ans": "chez l'enfant, il est nécessaire de réaliser 5 insufflations avant de débuter une réanimation.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18703,
+                    "ans": "on peut effectuer une R.C.P. dans l'eau, lors d'un remorquage.",
+                    "verif": 1
+                }
+            ]
+        },
+        {
+            "idQ": 188,
+            "quest": "Lors d'une piqûre de vive au pied, le venin étant thermolabile :",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18801,
+                    "ans": "vous frottez la piqûre de vive avec du sable.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18802,
+                    "ans": "vous conseillez à la personne de marcher dans le sable chaud.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18803,
+                    "ans": "vous préparez une bassine d'eau chaude.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18804,
+                    "ans": "vous informez immédiatement le centre anti-poison.",
+                    "verif": 0
+                }
+            ]
+        },
+        {
+            "idQ": 189,
+            "quest": "Utilisation de l'oxygène",
+            "cat": 6,
+            "answers": [
+                {
+                    "idA": 18901,
+                    "ans": "L'utilisation d'une bouteille d'oxygène demande des précautions particulières.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18902,
+                    "ans": "Je peux utiliser un masque d'inhalation pour délivrer de l'oxygène.",
+                    "verif": 1
+                },
+                {
+                    "idA": 18903,
+                    "ans": "Fumer à proximité d'une bouteille d'oxygène n'est pas dangereux.",
+                    "verif": 0
+                },
+                {
+                    "idA": 18904,
+                    "ans": "Je ne dois pas laisser une bouteille d'oxygène en plein soleil l'été.",
+                    "verif": 1
+                }
+            ]
+        }
+    ]
+}

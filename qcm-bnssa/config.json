@@ -1,0 +1,60 @@
+{
+  "app": {
+    "name": "BNSSA QCM",
+    "version": "1.0.0",
+    "mode": "local"
+  },
+  "quiz": {
+    "title": "QCM BNSSA",
+    "timeLimitMinutes": 40,
+    "totalQuestions": 40,
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "allowMultipleAnswers": true,
+    "autoStartTimerOnGenerate": true
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Partie 1 - Connaissance du milieu",
+      "min": 5,
+      "max": 8
+    },
+    {
+      "id": 2,
+      "name": "Partie 2 - Diplômes, compétences & obligations",
+      "min": 5,
+      "max": 8
+    },
+    {
+      "id": 3,
+      "name": "Partie 3 - Organisation administrative",
+      "min": 6,
+      "max": 8
+    },
+    {
+      "id": 4,
+      "name": "Partie 4 - Organisation de la sécurité",
+      "min": 6,
+      "max": 8
+    },
+    {
+      "id": 5,
+      "name": "Partie 5 -  Surveillance et sécurité des activités spécifiques",
+      "min": 6,
+      "max": 8
+    },
+    {
+      "id": 6,
+      "name": "Partie 6 - Conduite à tenir en cas d'accident - Premiers soins",
+      "min": 5,
+      "max": 8
+    }
+  ],
+  "ui": {
+    "theme": "light-blue-white",
+    "showCategoryName": true,
+    "showProgress": true,
+    "showTimer": true
+  }
+}
